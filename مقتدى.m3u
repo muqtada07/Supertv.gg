@@ -1,0 +1,41 @@
+#EXTM3U
+
+#EXTINF:-1,SuperTV Channel 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8
+
+#EXTINF:-1,SuperTV Channel 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/adaptive.m3u8
+
+#EXTINF:-1,SuperTV Channel 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/adaptive.m3u8
+
+#EXTINF:-1,SuperTV Channel 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/adaptive.m3u8
+
+#EXTINF:-1,SuperTV Channel 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/adaptive.m3u8
+
+#EXTINF:-1,SuperTV Channel 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch6/adaptive.m3u8
+
+#EXTINF:-1,SuperTV Channel 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch7/adaptive.m3u8
+
+#EXTINF:-1,SuperTV Channel 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://stream.supertv.gg:3008/supertv/sport/stv1/ch8/adaptive.m3u8
+
+#EXTINF:-1,SuperTV Channel 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://stream.supertv.gg:3009/supertv/sport/stv1/ch9/adaptive.m3u8
+
+#EXTINF:-1,SuperTV Channel 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://stream.supertv.gg:3010/supertv/sport/stv1/ch10/adaptive.m3u8
